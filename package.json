@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "dist/index.js",
-  "typings": "dist/types/index.d.ts",
+  "typings": "dist/types/yallist.d.ts",
   "files": [
     "dist"
   ],
